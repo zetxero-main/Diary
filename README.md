@@ -2,8 +2,8 @@
 
 เว็บบันทึกส่วนตัวที่เปิดให้ทุกคนอ่านได้ เขียนจากมือถือได้ ฟรีทั้งหมด
 
-- เว็บ: https://saharatyokthuan.github.io/Diary/
-- หน้าเขียนบันทึก: https://saharatyokthuan.github.io/Diary/admin/
+- เว็บ: https://zetxero-main.github.io/Diary/
+- หน้าเขียนบันทึก: https://zetxero-main.github.io/Diary/admin/
 
 ---
 
@@ -19,9 +19,9 @@ GitHub Pages เผยแพร่เว็บจาก **default branch เท�
 
 ### 2. เปิด GitHub Pages
 
-1. เข้า https://github.com/saharatyokthuan/Diary/settings/pages
+1. เข้า https://github.com/zetxero-main/Diary/settings/pages
 2. ช่อง **Source** เลือก **GitHub Actions**
-3. รอประมาณ 1–2 นาที แล้วเปิด https://saharatyokthuan.github.io/Diary/ ดู
+3. รอประมาณ 1–2 นาที แล้วเปิด https://zetxero-main.github.io/Diary/ ดู
 
 > เว็บจะอัปเดตเองทุกครั้งที่มีการเปลี่ยนแปลงใน branch `main`
 
@@ -40,7 +40,7 @@ GitHub Pages เผยแพร่เว็บจาก **default branch เท�
 
 ### 4. เข้าหน้าเขียนบนมือถือ
 
-1. เปิด https://saharatyokthuan.github.io/Diary/admin/ ในเบราว์เซอร์มือถือ (Chrome หรือ Samsung Internet)
+1. เปิด https://zetxero-main.github.io/Diary/admin/ ในเบราว์เซอร์มือถือ (Chrome หรือ Samsung Internet)
 2. กด **Sign In Using Access Token** แล้ววางรหัสจากขั้นที่ 3
 3. เบราว์เซอร์จะจำไว้ ครั้งต่อไปไม่ต้องใส่อีก
 4. แนะนำ: กดเมนู ⋮ → **เพิ่มลงในหน้าจอหลัก** จะได้ไอคอนเปิดหน้าเขียนได้ทันที
