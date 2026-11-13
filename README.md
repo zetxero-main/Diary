@@ -13,7 +13,7 @@
 
 GitHub Pages เผยแพร่เว็บจาก **default branch เท่านั้น** ถ้า default ยังเป็น branch อื่น เว็บจะไม่ขึ้น (หรือสร้างเว็บแล้วเผยแพร่ไม่ได้) จึงต้องทำขั้นนี้ก่อนเปิด Pages
 
-1. เข้า https://github.com/saharatyokthuan/Diary/settings (แท็บ **Settings** → **General**)
+1. เข้า https://github.com/zetxero-main/Diary/settings (แท็บ **Settings** → **General**)
 2. เลื่อนลงไปที่หัวข้อ **Default branch** แล้วกดปุ่มลูกศรสองทาง ⇄ (Switch to another branch)
 3. เลือก `main` → กด **Update** → กดยืนยัน **I understand, update the default branch**
 
@@ -73,7 +73,7 @@ GitHub Pages เผยแพร่เว็บจาก **default branch เท�
 ## ถ้าบันทึกไม่ขึ้นเว็บ
 
 1. รอประมาณ **5 นาที** แล้วรีเฟรชหน้าเว็บอีกครั้ง (ทุกครั้งที่กด Save เว็บต้องสร้างใหม่ ใช้เวลาสักพัก)
-2. เปิด https://github.com/saharatyokthuan/Diary/actions แล้วดูรายการบนสุด
+2. เปิด https://github.com/zetxero-main/Diary/actions แล้วดูรายการบนสุด
    - วงกลมสีเหลืองหมุน ๆ = กำลังสร้างเว็บ รอต่อ
    - เครื่องหมายถูกสีเขียว = สำเร็จ
    - **เครื่องหมาย ✗ สีแดง = สร้างเว็บไม่สำเร็จ** เว็บจะยังเป็นเวอร์ชันก่อนหน้าไปก่อน
